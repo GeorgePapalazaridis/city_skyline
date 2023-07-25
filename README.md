@@ -18,4 +18,5 @@ Generally, CSS variables help us organize our css styles and reuse them. As a re
 ## What the screen looks like
 
 [Picture 1 - Dark](https://github.com/GeorgePapalazaridis/city_skyline/blob/main/Στιγμιότυπο%202023-07-25%2C%201.07.47%20μμ.png)
+<br>
 [Picture 2 - Light](https://github.com/GeorgePapalazaridis/city_skyline/blob/main/Στιγμιότυπο%202023-07-25%2C%201.07.57%20μμ.png)
